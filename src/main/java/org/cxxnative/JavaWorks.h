@@ -136,6 +136,8 @@ public:
         cleanup();
     }
 
+    
+
 private:
     GLFWwindow* window;
 

@@ -1,10 +1,11 @@
 package org.example;
 
 import org.cxxnative.HelloTriangleApplication;
+import org.javaSolution.DEMO_settings_window;
 
 public class Main {
     public static void main(String[] args) {
-        HelloTriangleApplication hello = new HelloTriangleApplication();
-        hello.run();
+        DEMO_settings_window demo = new DEMO_settings_window();
+
     }
 }
